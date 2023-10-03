@@ -27,5 +27,6 @@ sudo apt install kubeadm=1.20.0-00 kubectl=1.20.0-00 kubelet=1.20.0-00 -y
 ## Commands to be Execute in the master node
 ```
 sudo kubeadm init
-![k 1](https://github.com/manojmanu276/K8s-ClusterSetUp-using-Kubeadm/assets/102495616/5e4a3414-41b3-4cfb-8ed1-84b40b621192)
 ```
+![k 1](https://github.com/manojmanu276/K8s-ClusterSetUp-using-Kubeadm/assets/102495616/5e4a3414-41b3-4cfb-8ed1-84b40b621192)
+
