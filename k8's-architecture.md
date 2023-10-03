@@ -14,7 +14,7 @@ This document explains key components of the kubernetes cluster
 This is the "front desk" of Kubernetes. Whenever a request is made to create a resource in k8s, the request goes to api-server. api-server validates and authenticates this request.
 
 ### ETCD
-Acts like default database of kubenetes. once api-server validates and authenticates the request, all the information is stored here in form of key-value.
+Acts like default database of kubernetes. once api-server validates and authenticates the request, all the information is stored here in form of key-value.
 
 ### Scheduler
 Scheduler finds the unscheduled pods and schedules it to the nodes.In simple terms, it can be called as "Event Planner".
