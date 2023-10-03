@@ -71,7 +71,7 @@ sudo kubeadm token create --print-join-command
 
    After executing the above command, you get the below message:
 
-    ![k 9](https://github.com/manojmanu276/K8s-ClusterSetUp-using-Kubeadm/assets/102495616/5a32c54b-42b8-47e6-9d6c-fd072430b0a8)
+![k 9](https://github.com/manojmanu276/K8s-ClusterSetUp-using-Kubeadm/assets/102495616/5a32c54b-42b8-47e6-9d6c-fd072430b0a8)
 
 ## Verify Cluster Connection
 ```
