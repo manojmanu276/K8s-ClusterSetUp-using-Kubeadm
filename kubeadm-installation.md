@@ -3,7 +3,7 @@ This guide contains all the necessary steps to set up kubernetes cluster using k
 
 ## Pre-requisites
 * Ubuntu Os (Xenial(16.04) or later)
-* EC2-Instance (t2.medium or higer)
+* EC2-Instance (t2.medium or higher)
 * sudo privileges
 
 ## Commands to be Executed in both Master & Worker node
