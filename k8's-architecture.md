@@ -51,4 +51,4 @@ This is like an external hard-drive that can be attached to a Pod to store data.
 Service is a method of exposing a network application that is running as one or more Pods in your cluster.
 
 ### Container Network Interface(CNI)
-Container Network Interface (CNI) is a framework for dynamically configuring networking resources. In simple words, allows communication between Master node and worker nodes.
+Container Network Interface (CNI) is a framework for dynamically configuring networking resources. In simple words, allows communication between Master node and worker nodes.(e.g. Weavenet, Flannel, Calico)
